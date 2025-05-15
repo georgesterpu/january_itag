@@ -1,0 +1,6 @@
+dotenv
+fastapi
+google-genai
+supabase
+streamlit
+uvicorn
